@@ -86,7 +86,7 @@ Please cite the associated research article as the preferred scientific referenc
 
 **Zenodo DOI:** [TO BE ADDED]
 
-**ORCID:** [TO BE ADDED]
+**ORCID:** (https://orcid.org/0000-0002-0079-0802)
 
 ### Keywords
 
