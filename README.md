@@ -84,7 +84,7 @@ Please cite the associated research article as the preferred scientific referenc
 
 **Publisher DOI:** [TO BE ADDED]
 
-**Zenodo DOI:** [TO BE ADDED]
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23245446
 
 **ORCID:** (https://orcid.org/0000-0002-0079-0802)
 
