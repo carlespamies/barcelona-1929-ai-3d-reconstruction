@@ -25,8 +25,8 @@ keywords:
   - "cultural heritage"
   - "virtual reconstruction"
   - "museography"
-url: "https://github.com/[GITHUB-USERNAME]/barcelona-1929-ai-3d-reconstruction"
-repository-code: "https://github.com/[GITHUB-USERNAME]/barcelona-1929-ai-3d-reconstruction"
+url: "https://github.com/carlespamies/barcelona-1929-ai-3d-reconstruction"
+repository-code: "https://github.com/carlespamies/barcelona-1929-ai-3d-reconstruction"
 license: "CC-BY-4.0"
 doi: "10.5281/zenodo/[TO-BE-ADDED]"
 preferred-citation:
@@ -35,7 +35,7 @@ preferred-citation:
   authors:
     - family-names: "Pàmies"
       given-names: "Carles"
-      orcid: "[TO BE ADDED]"
+      orcid: "https://orcid.org/0000-0002-0079-0802"
   journal: "Discover Artificial Intelligence"
   year: 2026
-  doi: "[PUBLISHER-DOI-TO-BE-ADDED]"
+  doi: 
