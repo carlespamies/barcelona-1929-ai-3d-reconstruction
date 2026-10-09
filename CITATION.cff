@@ -1,20 +1,24 @@
+
 cff-version: 1.2.0
-message: "If you use this repository, its datasets, 3D models, evaluation results or methodology, please cite the associated research article."
+message: "If you use this repository, its datasets, 3D models, evaluation results or methodology, please cite this work and its associated research article."
 title: "Barcelona 1929 AI–3D Reconstruction"
-version: "1.0.0"
-date-released: "2026-10-08"
 type: dataset
+version: "1.0.1"
+date-released: 2026-10-09
+
 authors:
   - family-names: "Pàmies"
     given-names: "Carles"
     affiliation: "Escola Tècnica Superior d'Arquitectura de Barcelona (ETSAB), Universitat Politècnica de Catalunya (UPC)"
-    orcid: "[TO BE ADDED]"
+
 abstract: >
-  Research repository accompanying the study "Reconstructing the
-  Barcelona Exhibition of 1929 through AI-Based Generative 3D
-  Reconstruction". The repository documents a comparative evaluation
-  of four image-to-3D generative AI systems applied to three vanished
-  pavilions of the 1929 International Exposition of Barcelona.
+  Research repository accompanying the study
+  "Reconstructing the Barcelona Exhibition of 1929 through
+  AI-Based Generative 3D Reconstruction". The repository
+  documents a comparative evaluation of four image-to-3D
+  generative AI systems applied to three vanished pavilions
+  of the 1929 International Exposition of Barcelona.
+
 keywords:
   - "digital heritage"
   - "generative artificial intelligence"
@@ -25,17 +29,8 @@ keywords:
   - "cultural heritage"
   - "virtual reconstruction"
   - "museography"
+
 url: "https://github.com/carlespamies/barcelona-1929-ai-3d-reconstruction"
 repository-code: "https://github.com/carlespamies/barcelona-1929-ai-3d-reconstruction"
+
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo/[TO-BE-ADDED]"
-preferred-citation:
-  type: article
-  title: "Reconstructing the Barcelona Exhibition of 1929 through AI-Based Generative 3D Reconstruction"
-  authors:
-    - family-names: "Pàmies"
-      given-names: "Carles"
-      orcid: "https://orcid.org/0000-0002-0079-0802"
-  journal: "Discover Artificial Intelligence"
-  year: 2026
-  doi: 
